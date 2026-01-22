@@ -14,3 +14,4 @@ A fully functional, flat-structure DAO governance system. This repository demons
 1. **Install:**
    ```bash
    npm install
+YOLO badge test 😆
